@@ -1,2 +1,2 @@
 # tutoriais-youtube
- Aqui você encontra os códigos dos principais exercícios que faço lá no YouTube
+ Aqui neste repositório eu disponibilizo os códigos dos principais exercícios que faço lá no YouTube.
